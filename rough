@@ -1,0 +1,18 @@
+<div class="photo">
+    <div class="image">
+                <img src="drone.jpg" alt="agricultural-drone" height="80px">
+    </div>
+            <div class="photo-name">Agricultural Drone</div>
+        </div>
+        <div class="photo">
+            <div class="image">
+                <img src="weeder.jpg" alt="Weeder" height="80px">
+            </div>
+            <div class="photo-name">Weeder</div>
+        </div>
+        <div class="photo">
+            <div class="image">
+                <img src="shovel.jpg" alt="Shovel" height="80px">
+            </div>
+            <div class="photo-name">Shovel</div>
+        </div>
