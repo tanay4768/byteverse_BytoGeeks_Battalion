@@ -56,7 +56,7 @@ rural area accurate information may not reach on time.</li>
 
 <h2>Documentations used:</h2>
 <ol>
-  <li><b>ResearchGate</b>https://www.researchgate.net/publication/278245013</li>
+  <li><b>ResearchGate-</b>https://www.researchgate.net/publication/278245013</li>
 </ol>
 
 
