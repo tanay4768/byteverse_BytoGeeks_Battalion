@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <select name="seaso" id="season">
+            <option value="0.4">initial</option>
+            <option value="1.4">mid</option>
+            <option value="0.4">end</option>
+        </select>
+    </div>
+    <div id="cont">
+        Water required per crop(in mm):
+        <span id="data"></span>
+    </div>
+    <br>
+    <button onclick="getdata()">
+        GetTodaysWater requirment
+    </button>
+</body>
+</html>
