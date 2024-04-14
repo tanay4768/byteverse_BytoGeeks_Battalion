@@ -4,12 +4,14 @@
  <b>Team Name: </b> BytoGeeks_Battalion<br>
  <b>Institute Name:</b> National Institute of Technology Patna<br>
  <b>Theme Name:</b>Sustainable Technology
- <h3>Describtion of Prototype</h3>
+ 
+ <h2>Describtion of Prototype</h2>
  <b>Crop Health Monitoring:</b> Real-time tracking of crop health, identifying diseases, and providing actionable insights. <br>
  <b>Pesticide Availability:</b> Access to information on pesticide types, availability, and usage guidelines. <br>
  <b>Automatic Pesticide System:</b> Developing a drone based automatic pesticide spraying system code using OpenCV. <br>
  <b>Water Management System:</b> AI base dynamic water allocation system based on crop type, weather conditions, temperature. Tools Renting: Tools for farming on rent from big farmers or shops
- <h3>DescribtionTechnology stack here:</h3>
+ 
+ <h2>DescribtionTechnology stack here:</h2>
  <dl>
    <dt>HTML and CSS</dt>
    <dd>Front end user interface</dd>
@@ -22,7 +24,8 @@
    <dt>Flask</dt>
    <dd>Backend and front end integration</dd>
  </dl>
- <h3>Describtion Use Cases here:</h3>
+ 
+ <h2>Describtion Use Cases here:</h2>
  <ul>
    <li>Farmers</li>
    <ul>
@@ -38,7 +41,8 @@
      <li> Precise water management and pesticide spraying systemcreatebalance betweenhuman benefits and nature</li>
    </ul>
  </ul>
-<h3>Dependencies and show stopper</h3>
+ 
+<h2>Dependencies and show stopper</h2>
 <ul>
   <li><b>Reliable data:</b>An efficient and accurate weather data 
 source and real time data analysis require.</li> 
@@ -49,7 +53,8 @@ usage and application .</li>
 <li><b>Internet connectivity:</b>Due to poor internet connectivity in 
 rural area accurate information may not reach on time.</li>  
 </ul>
-<h3>Documentations used:</h3>
+
+<h2>Documentations used:</h2>
 <ol>
   <li><b>ResearchGate</b>https://www.researchgate.net/publication/278245013</li>
 </ol>
